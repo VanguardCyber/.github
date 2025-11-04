@@ -1,4 +1,4 @@
-# Welcome to our Github repository
+# Welcome to our page :sparkles:
 
 Vanguard Cyber is an Australian cybersecurity consultancy based out of Sydney. We are on a mission to secure the digital future of australian businesses.
 
